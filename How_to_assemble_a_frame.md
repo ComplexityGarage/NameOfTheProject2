@@ -5,4 +5,4 @@ The pinion gear needs also some modifications. To make a working pinion gear you
     <img src="https://github.com/user-attachments/assets/d19664a3-b5e1-48f9-b212-e3748a526f1a" alt="First" width="400">
     <img src="https://github.com/user-attachments/assets/5da6b95f-622f-4272-a78e-6c6b23ded8de" alt="Second" width="360">
 </p>  <br />
-
+As a next step you need to insert the frame with a rack into the rail in the rack holder. The pinion gear can then be mounted onto the servo and the whole structure can be placed in the puzzle servo-frame box. <br />
