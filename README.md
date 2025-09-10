@@ -18,10 +18,12 @@ Parts needed to make one FLEXI-FRAME: <br />
 - two M2 x 10mm screws <br />
 - servo horn
 
-To build one FLEXI-FRAME couple of parts need to be 3D printed - .STL files for 3D printing are available in [STL_files](./STL_files/) directory. Constructing one frame requires 5 pieces: frame with a rack, pinion gear, rack holder-top, rack holder-bottom and puzzle servo-frame box. Instructions how to assemble the frame are available [here](./How_to_assemble_a_frame.md).
+To build one FLEXI-FRAME couple of parts need to be 3D printed - .STL files for 3D printing are available in [STL_files](./STL_files/) directory. Constructing one frame requires 5 pieces: frame with a rack, pinion gear, rack holder-top, rack holder-bottom and puzzle servo-frame box. Instructions how to assemble the frame are available [here](./How_to_assemble_a_frame.md). <br />
+The concept of using a servo mechanism to convert circular motion into linear motion was inspired by this video: https://www.youtube.com/watch?v=2vAoOYF3m8U. The design was subsequently adapted and modified, including changes to the mechanical layout and the use of a different servo. <br />
+
 # State of the art 
 Text & plots here... 
 # What next?
 Text here... 
 # Sources 
-- [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github ) 
+- Converting circular motion into linear motion using a servo mechanism ( https://www.youtube.com/watch?v=2vAoOYF3m8U ) 
