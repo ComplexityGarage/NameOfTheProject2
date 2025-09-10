@@ -16,7 +16,8 @@ Parts needed to make one FLEXI-FRAME: <br />
 - capasitor <br />
 - resistor <br />
 - two M2 x 10mm screws <br />
-- servo horn <br />
+- servo horn
+
 To build one FLEXI-FRAME couple of parts need to be 3D printed - .STL files for 3D printing are available in [STL_files](./STL_files/) directory. Constructing one frame requires 5 pieces: frame with a rack, pinion gear, rack holder-top, rack holder-bottom and puzzle servo-frame box. Instructions how to assemble the frame are available [here](./How_to_assemble_a_frame.md).
 # State of the art 
 Text & plots here... 
