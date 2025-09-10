@@ -22,7 +22,7 @@ To build one FLEXI-FRAME couple of parts need to be 3D printed - .STL files for 
 The concept of using a servo mechanism to convert circular motion into linear motion was inspired by this video: https://www.youtube.com/watch?v=2vAoOYF3m8U. The design was subsequently adapted and modified, including changes to the mechanical layout and the use of a different servo. <br />
 
 # State of the art 
-Text & plots here... 
+FLEXI-FRAME, in it's first prototype version, allows you to build a modular frame system and remotely place the frames in and out. With a current design you can stack up to 4 frames.
 # What next?
 Text here... 
 # Sources 
